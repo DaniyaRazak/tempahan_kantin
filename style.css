@@ -1,0 +1,47 @@
+    body {
+        font-family: helvetica;
+        background-image: url("pink4.jpg");
+        margin-top: 15%;
+    }
+    div {
+        border: 7px solid #ffb8ec;
+        width: 30%;
+        background-color: lightgoldenrodyellow;
+        border-style:groove;
+        border-radius: 15px;
+        margin: auto;
+    }
+    form {
+        line-height: 2.5;
+        text-align: center;
+    }
+    h1 {
+        font-family: 'Broadway';
+        font-weight: bolder;
+        text-align: center;
+    }
+    input {
+        border: 1px solid;
+        border-radius: 12px;
+        padding: 4px;
+    }
+    select {
+        border-radius: 70px;
+        padding: 7px;
+        background-color: #ffcadc;
+    }
+    option {
+        background-color: skyblue;
+    }
+    option:hover {
+        background-color: azure;
+    }
+    button {
+        background-color: pink;
+        border: none;
+        border-radius: 70px;
+        padding: 7px;
+    }
+    button:hover {
+        background-color: #fc8ea0;
+    }
